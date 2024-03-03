@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T13:00:30 IST" name="Suite" finished-at="2024-03-03T13:01:01 IST" duration-ms="30405">
+    <groups>
+    </groups>
+    <test started-at="2024-03-03T13:00:30 IST" name="Test" finished-at="2024-03-03T13:01:01 IST" duration-ms="30405">
+      <class name="Project.CarLoan">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Project.CarLoan@55f616cf]" started-at="2024-03-03T13:00:47 IST" name="setup" finished-at="2024-03-03T13:00:59 IST" duration-ms="12524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogo()[pri:1, instance:Project.CarLoan@55f616cf]" started-at="2024-03-03T13:00:59 IST" name="testLogo" finished-at="2024-03-03T13:01:00 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="Car_Loan()[pri:2, instance:Project.CarLoan@55f616cf]" started-at="2024-03-03T13:01:00 IST" name="Car_Loan" finished-at="2024-03-03T13:01:01 IST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Car_Loan -->
+        <test-method signature="EMI_Calculation()[pri:3, instance:Project.CarLoan@55f616cf]" started-at="2024-03-03T13:01:01 IST" name="EMI_Calculation" finished-at="2024-03-03T13:01:01 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EMI_Calculation -->
+      </class> <!-- Project.CarLoan -->
+      <class name="Project.HomeLoan">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Project.HomeLoan@dd0c991]" started-at="2024-03-03T13:00:31 IST" name="setup" finished-at="2024-03-03T13:00:45 IST" duration-ms="14112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Home_Loan()[pri:1, instance:Project.HomeLoan@dd0c991]" started-at="2024-03-03T13:00:45 IST" name="Home_Loan" finished-at="2024-03-03T13:00:45 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Loan -->
+        <test-method signature="HomeLoan_Data()[pri:2, instance:Project.HomeLoan@dd0c991]" started-at="2024-03-03T13:00:45 IST" name="HomeLoan_Data" finished-at="2024-03-03T13:00:47 IST" duration-ms="1832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeLoan_Data -->
+      </class> <!-- Project.HomeLoan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
